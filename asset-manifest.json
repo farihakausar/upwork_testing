@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/upwork_testing/static/css/main.e79dcef7.css",
+    "main.js": "/upwork_testing/static/js/main.6ddf24f6.js",
+    "static/media/kiwify.png": "/upwork_testing/static/media/kiwify.2af0e504c88e8c6147af.png",
+    "index.html": "/upwork_testing/index.html",
+    "main.e79dcef7.css.map": "/upwork_testing/static/css/main.e79dcef7.css.map",
+    "main.6ddf24f6.js.map": "/upwork_testing/static/js/main.6ddf24f6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e79dcef7.css",
+    "static/js/main.6ddf24f6.js"
+  ]
+}
